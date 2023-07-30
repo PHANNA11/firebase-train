@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914720781433",
+    "project_id": "etec-trian",
+    "storage_bucket": "etec-trian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914720781433:android:c87664a3b07c7517ff90a8",
+        "android_client_info": {
+          "package_name": "com.example.combo_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914720781433-3dhu0j9p8jmcpb3p3pkfqv06rnsbv3fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.combo_shop",
+            "certificate_hash": "62c344adc498f36f67e5873590daee6f93ca08d5"
+          }
+        },
+        {
+          "client_id": "914720781433-vf1302jk9l3cec3dst21cfk20tvu8trj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn_qeC7btbX9PDRixsBGeI-7MiKyKgHW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914720781433-vf1302jk9l3cec3dst21cfk20tvu8trj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
